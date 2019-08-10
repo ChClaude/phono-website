@@ -1,2 +1,4 @@
 [build]
-    publish="dist"
+    base="phono-website"
+    publish="phono-website/dist"
+    command= "yarn build"
