@@ -1,4 +1,0 @@
-[build]
-    base="phono-website"
-    publish="phono-website/dist"
-    command= "npm build"
